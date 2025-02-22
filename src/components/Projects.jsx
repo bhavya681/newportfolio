@@ -11,9 +11,16 @@ import thumbnail from '../assets/thumbnailboarder.png';
 import ff from '../assets/ff.png';
 import ecc from '../assets/ecc.png';
 import xo from '../assets/xo.png';
-
+import tailtenders from '../assets/tailtenders.png';
 const projects = [
   {
+    title: "TailTenders - AI-Powered Personal Stylist",
+    description: "Developed a smart fashion recommendation platform using AI to provide personalized outfit suggestions.",
+    link: "https://trialtailtender-xiab-one.vercel.app/",
+    image: tailtenders,
+    date: "Feb 22, 2025",
+  },
+   {
     title: "CodeBuddy - Developer Social Media",
     description: "Built a full-stack social platform for developers with real-time chat functionality.",
     link: "https://codebuddy-gamma.vercel.app",
@@ -79,7 +86,7 @@ const projects = [
   {
     title: "LearnNova",
     description: " simplify and enhance web user life through powerful tools tailored for academic and personal development..",
-    link: "https://learnova1.vercel.app",
+    link: "https://learnnova-9fgg.vercel.app",
     image: learnnova,
     date: "Jun 2023",
   },

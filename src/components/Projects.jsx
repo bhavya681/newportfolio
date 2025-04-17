@@ -11,8 +11,16 @@ import thumbnail from '../assets/thumbnailboarder.png';
 import ff from '../assets/ff.png';
 import ecc from '../assets/ecc.png';
 import xo from '../assets/xo.png';
+import ShipLink from '../assets/ShipLink.png';
 import tailtenders from '../assets/tailtenders.png';
 const projects = [
+  {
+title: "ShipLink – Smart, Competitive & Flexible Shipping Platform",
+    description: "ShipLink is a modern shipping and logistics platform that bridges the gap between people who need to ship products and shippers looking for delivery jobs.",
+    link: "https://shiplink.onrender.com/",
+    image: ShipLink,
+    date: "April 2, 2025",
+  },
   {
     title: "TailTenders - AI-Powered Personal Stylist",
     description: "Developed a smart fashion recommendation platform using AI to provide personalized outfit suggestions.",

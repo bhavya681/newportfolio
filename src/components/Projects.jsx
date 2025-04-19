@@ -13,6 +13,7 @@ import ecc from '../assets/ecc.png';
 import xo from '../assets/xo.png';
 import shipLink from '../assets/shipLink.png';
 import tailtenders from '../assets/tailtenders.png';
+
 const projects = [
   {
 title: "ShipLink – Smart, Competitive & Flexible Shipping Platform",
